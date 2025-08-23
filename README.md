@@ -13,6 +13,11 @@ El cuaderno incluye ejemplos prácticos y ejercicios que cubren los siguientes t
 5. **Estructuras de Datos**: Listas, tuplas, diccionarios y conjuntos.
 6. **Módulos y Librerías**: Importación y uso de módulos estándar de Python.
 
+## Actualizaciones Recientes
+
+- Se ha integrado la rama `feature/ciclo-for`, que incluye ejemplos y ejercicios adicionales sobre el uso del bucle `for` en Python.
+- Ahora el cuaderno contiene una sección dedicada a ciclos `for`, con explicaciones y casos prácticos para recorrer listas y otros iterables.
+
 ## Requisitos
 
 Para ejecutar este proyecto, necesitas:
